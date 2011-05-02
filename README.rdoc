@@ -2,13 +2,13 @@
 
 A Rails gem to conveniently manage multiple nested models in a single simple_form. It does so in an unobtrusive way through jQuery.
 
-Note: this gem extends the simple_form gem (https://github.com/plataformatec/simple_form)
+Note: this gem extends the simple_form gem (https://github.com/plataformatec/simple_form) and it's a fork of https://github.com/jdmorani/nested_form
 
 == Install
 
 Add it to your Gemfile
   
-  gem "nested_form", :git => "git://github.com/jdmorani/nested_form.git"
+  gem "nested_form", :git => "git://github.com/Marchino/nested_form.git"
 
 Run
   
